@@ -1,0 +1,3 @@
+APP_NAME=shop
+TIMEOUT=30
+LANG=ko
